@@ -73,6 +73,8 @@ This vocabulary is an extended version of <<ISO19160-1>>'s `AddressComponentType
 | `act:propertyName` | addition (this model) | Use
 | `act:placeName` | addition (this model) | Use
 | `act:indigenousPlaceName` | addition (this model) | Use
+| `act:waterFeatureName` | addition (this model) | Use
+| `act:waterFeatureType` | addition (this model) | Use
 |===
 
 === Address Lifecycle Stage Types
